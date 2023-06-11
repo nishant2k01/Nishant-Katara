@@ -9,7 +9,7 @@
   <img align="center" src="./images/rainbow.png" width="120%"/>
 </div> -->
 <h1 align="center">Hi 👋, I'm Nishant Katara</h1>
-<h3 align="center">A passionate tech enthusiast & full-stack developer from India.</h3>
+<h3 align="center">A passionate Tech Enthusiast & Full-Stack Developer from India.</h3>
 
 <!-- ----------- HEAD SECTION END ------------ -->
 
