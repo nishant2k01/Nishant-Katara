@@ -1,5 +1,5 @@
 <!-- ----------- HEAD SECTION START ------------ -->
-<img align="center" src="./images/Introbanner.png" />
+<!-- <img align="center" src="./images/Introbanner.png" />
 
 <div align="center">
   <img src="./images/rainbow.png" width="120%"/>
@@ -7,7 +7,7 @@
 
 <div align="center">
   <img align="center" src="./images/rainbow.png" width="120%"/>
-</div>
+</div> -->
 
 <!-- ----------- HEAD SECTION END ------------ -->
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me <a href="mailto:nishantkatarahnd01@gmail.com" style="color: #1f6feb; text-decoration: none;">nishantkatarahnd01@gmail.com</a>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb">
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=ShwetKhatri20014&style=flat-square&color=1f6feb"> -->
 <hr>
 
 <!-- ----------- CONTENT SECTION END ------------ -->
@@ -40,10 +40,10 @@
 <img width="410px" src="https://github-readme-stats.vercel.app/api?username=ShwetKhatri2001&show_icons=true&count_private=true&icon_color=1f6feb&title_color=1f6feb&color=1fdbd8&bg_color=000000&border_color=1f6feb&text_color=1f6feb" />
 <img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=ShwetKhatri2001&date_format=M%20j%5B%2C%20Y%5D&sideNums=1f6feb&ring=1f6feb&background=000000&dates=1f6feb&currStreakNum=1f6feb&currStreakLabel=1f6feb&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" /> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="./images/rainbow.png" width="120%"/>
 </div>
-
+ -->
 <!-- ----------- STATS SECTION END ------------ -->
 
 <!-- ----------- TECH STACK SECTION START ------------ -->
@@ -57,9 +57,9 @@
 | <span style="color:#1f6feb" >Tools</span>       | ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | <span style="color:#1f6feb">UI/UX</span>       | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-<div align="center">
+<!-- <div align="center">
   <img src="./images/rainbow.png" width="120%"/>
-</div>
+</div> -->
 
 <!-- ----------- TECH STACK SECTION END------------ -->
 
@@ -99,8 +99,8 @@
 <br>
 </p>
                                                                                                                                                            
-<div align="center">
+<!-- <div align="center">
   <img src="./images/rainbow.png" width="120%"/>
-</div>
+</div> -->
 
 <!-- ----------- SOCIAL SECTION EMD ------------ -->
